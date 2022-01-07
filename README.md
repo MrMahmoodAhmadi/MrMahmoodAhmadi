@@ -3,7 +3,7 @@ Hi there, I'm <a href="https://github.com/MrMahmoodAhmadi" target="_blank" rel="
 </h3>
 
 <h2 align="center">
-Becoming a smiling hacker
+Becoming a happy hacker
 </h2> 
 
 I am currently a student of pure mathematics.
