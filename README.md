@@ -10,7 +10,7 @@ I am currently a student of pure mathematics.
 But I must honestly say that I **hate** university and school and I am generally opposed to the education system.
 Because the system of most universities and schools destroys special, intelligent and creative people.
 The education system can only be useful for educating a certain suffering of individuals and for others it can be completely negative.
-This is my personal opinion. But you can talk to each other through the following communication channels:
+This is my personal opinion, By the way, I'm learning a lot of topics and skills right now. But you can talk to each other through the following communication channels:
 
 ### 🤝 Connect with me:
 
