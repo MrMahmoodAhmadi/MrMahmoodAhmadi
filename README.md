@@ -18,8 +18,7 @@ This is my personal opinion. But you can talk to each other through the followin
 <a href="https://instagram.com/MrMahmoodAhmadi"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-- ---
-
+- 
 ## 💼 Technical Skills
 
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
