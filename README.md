@@ -1,26 +1,43 @@
-### Hi there 👋
+<h3 align="center">
+Hi there, I'm <a href="https://github.com/MrMahmoodAhmadi" target="_blank" rel="noreferrer">MrMahmoodAhmadi</a> 👋
+</h3>
 
-<!--
-**MrMahmoodAhmadi/MrMahmoodAhmadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">
+I'm just here to learn...
+</h2> 
 
-Here are some ideas to get you started:
+I am currently a student of pure mathematics.
+But I must honestly say that I hate university and school and I am generally opposed to the education system.
+Because the system of most universities and schools destroys special, intelligent and creative people.
+The education system can only be useful for educating a certain suffering of individuals and for others it can be completely negative.
+This is my personal opinion. But you can talk to each other through the following communication channels:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝 Connect with me:
 
-My name is Mahmood Ahmadi RoghAbadi <br/>
-I am currently a student of pure mathematics.<br/>
-But I inherently **hate** university and school and I am completely against the education system.<hr/>
-**Language and Tools:**<br/>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)<hr/>
-![](https://camo.githubusercontent.com/95e70ab3680b06f28b41a6113d2a59386c31df792f34f9834d566e870d669db5/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d4d724d61686d6f6f6441686d61646926636f6c756d6e3d38266d617267696e2d773d3135266d617267696e2d683d3135)<hr/>
-[![MrMahmoodAhmadi’s github stats](https://github-readme-stats.vercel.app/api?username=MrMahmoodAhmadi)](https://github.com/MrMahmoodAhmadi)
+<a href="https://www.linkedin.com/in/mrmahmoodahmadi/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/MrMahmoodAhmadi"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+</br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+## 💼 Technical Skills
+
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+
+</br>
+
+![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
+![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
+
+
+</br>
+
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+
+## 📈 GitHub Stats 
+
+[![MrMahmoodAhmadi's github stats](https://github-readme-stats.vercel.app/api?username=MrMahmoodAhmadi)](https://github.com/MrMahmoodAhmadi)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMahmoodAhmadi&layout=compact)](https://github.com/MrMahmoodAhmadi)
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=MrMahmoodAhmadi.MrMahmoodAhmadi)]()
