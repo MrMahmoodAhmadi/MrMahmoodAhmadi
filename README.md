@@ -28,7 +28,6 @@ The education system can only be useful for educating a certain suffering of ind
 
 </br>
 
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 
 
