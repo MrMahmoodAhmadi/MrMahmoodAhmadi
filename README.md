@@ -17,9 +17,8 @@ This is my personal opinion. But you can talk to each other through the followin
 <a href="https://www.linkedin.com/in/mrmahmoodahmadi/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/MrMahmoodAhmadi"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 </br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!<hr/>
-
-![](https://camo.githubusercontent.com/95e70ab3680b06f28b41a6113d2a59386c31df792f34f9834d566e870d669db5/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d4d724d61686d6f6f6441686d61646926636f6c756d6e3d38266d617267696e2d773d3135266d617267696e2d683d3135)
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- ---
 
 ## 💼 Technical Skills
 
@@ -38,6 +37,9 @@ This is my personal opinion. But you can talk to each other through the followin
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 ## 📈 GitHub Stats 
+
+![](https://camo.githubusercontent.com/95e70ab3680b06f28b41a6113d2a59386c31df792f34f9834d566e870d669db5/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d4d724d61686d6f6f6441686d61646926636f6c756d6e3d38266d617267696e2d773d3135266d617267696e2d683d3135)
+
 
 [![MrMahmoodAhmadi's github stats](https://github-readme-stats.vercel.app/api?username=MrMahmoodAhmadi)](https://github.com/MrMahmoodAhmadi)
 
