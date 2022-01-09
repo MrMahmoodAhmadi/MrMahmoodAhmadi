@@ -36,10 +36,10 @@ The education system can only be useful for educating a certain suffering of ind
 
 ## 📈 GitHub Stats 
 
-[![MrMahmoodAhmadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMahmoodAhmadi&show_icons=true&theme=radical)](https://github.com/MrMahmoodAhmadi)
 
 ![](https://camo.githubusercontent.com/95e70ab3680b06f28b41a6113d2a59386c31df792f34f9834d566e870d669db5/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d4d724d61686d6f6f6441686d61646926636f6c756d6e3d38266d617267696e2d773d3135266d617267696e2d683d3135)
 
+[![MrMahmoodAhmadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMahmoodAhmadi&show_icons=true)](https://github.com/MrMahmoodAhmadi)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMahmoodAhmadi&layout=compact)](https://github.com/MrMahmoodAhmadi)
 
