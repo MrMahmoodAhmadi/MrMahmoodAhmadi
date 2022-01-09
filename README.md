@@ -15,8 +15,10 @@ The education system can only be useful for educating a certain suffering of ind
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/mrmahmoodahmadi/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="MrMahmoodAhmadi | LinkedIn"/></a>
-<a href="https://instagram.com/MrMahmoodAhmadi"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="MrMahmoodAhmadi | Instagram"/></a>
+<a href="https://discord.gg/sVsUffe2qV"><img align="left" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="MrMahmoodAhmadi | Discord"/></a>
 </br>
+<!--<a href="https://instagram.com/MrMahmoodAhmadi"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="MrMahmoodAhmadi | Instagram"/></a>-->
+
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 
